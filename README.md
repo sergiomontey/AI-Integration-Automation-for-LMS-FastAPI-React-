@@ -518,12 +518,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 🆘 Support
-
-- 📧 **Email**: support@ai-lms.com
-- 💬 **Discord**: [Join our community](https://discord.gg/ai-lms)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/ai-lms/issues)
-- 📖 **Documentation**: [Full Documentation](https://docs.ai-lms.com)
 
 ## 🌟 Acknowledgments
 
